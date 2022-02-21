@@ -28,6 +28,40 @@ Achieve a **cost-saving multiplier effect** with every new application deployed 
 
 ```
 
+### Designing an Application
+
+
+**At a minimum, plan the following:**
+
+```
+Business Logic
+User Interface (UI)
+Data Model
+
+Business Logic
+Be able to clearly state the business problem to be solved and the desired outcomes. For example, the business problem statement(s) may start with:
+
+We need to track...
+We need to automate...
+We need to respond...
+Your outcome statement(s) may start with:
+
+We can save...
+We can retire...
+We can improve...
+Be able to list all stakeholders for your application. Use this information to design user personas which are important when applying security to an application.
+
+Clearly define the business process that will be part of the application. List the required steps, stakeholders, data sources, and outputs/visualizations.
+
+User Interface
+Decide what User Interfaces (UIs) you will use within your application. 
+Decide if the application is for desktop and tablet only, or if users can access the application from a smartphone.
+
+Data Model
+Define the table structure the application will use as well as the relationships between the tables. Typically tables are the first artifact added to an application. Changing the data model during the application development process can cause extensive re-working of an application's logic.
+
+```
+
 ## Introduction to Scripting in ServiceNow
 ## Client-side Scripting
 ## Server-side Scripting
