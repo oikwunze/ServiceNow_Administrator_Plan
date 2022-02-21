@@ -16,6 +16,16 @@ Discover and prioritize business-enabling opportunities with **built-in platform
 
 Achieve a **cost-saving multiplier effect** with every new application deployed on a single system of record by leveraging a single extensible platform and integrated data model.
 
+### ServiceNow is ideal for building business applications that:
+
+  Replace processes managed in spreadsheets and email.
+
+  Modernize and improve departmental applications built on legacy platforms.
+
+  Automate processes, particularly those with a request-fulfill pattern.
+
+
+
 ## Introduction to Scripting in ServiceNow
 ## Client-side Scripting
 ## Server-side Scripting
