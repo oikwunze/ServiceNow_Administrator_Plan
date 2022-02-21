@@ -62,6 +62,21 @@ Define the table structure the application will use as well as the relationships
 
 ```
 
+### ServiceNow Studio
+
+```
+Studio is ServiceNow’s Integrated Development Environment (IDE) and is the preferred interface for building and modifying applications. It provides easy navigation to all files within your application, contains a tabbed interface, and offers many convenient features, such as keyboard shortcuts, code search, and more:
+
+Create and edit applications
+Create application files
+Determine which application files comprise an application
+Link applications to a GitHub source code repository
+Publish applications to the ServiceNow application repository
+Submit applications to the ServiceNow App Store
+
+```
+
+
 ## Introduction to Scripting in ServiceNow
 ## Client-side Scripting
 ## Server-side Scripting
