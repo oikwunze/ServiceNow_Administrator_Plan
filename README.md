@@ -4,6 +4,8 @@
 
 ## Create the NeedIt Application and Application Files
 
+### ServiceNow's powerful platform allows developers to create cloud-native applications to rapidly add value to their organization.
+
 Access a comprehensive set of platform services such as **data management, workflows, templates, scripting tools, and integrations** that allow you to rapidly develop and deploy Web standards-based service management applications for every department in the enterprise.
 
 **Consumerize your users’ experiences via consistent and intuitive user interfaces, self-service portals, and service catalogs.**
