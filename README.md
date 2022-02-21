@@ -18,13 +18,15 @@ Achieve a **cost-saving multiplier effect** with every new application deployed 
 
 ### ServiceNow is ideal for building business applications that:
 
+```
+
   Replace processes managed in spreadsheets and email.
 
   Modernize and improve departmental applications built on legacy platforms.
 
   Automate processes, particularly those with a request-fulfill pattern.
 
-
+```
 
 ## Introduction to Scripting in ServiceNow
 ## Client-side Scripting
